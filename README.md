@@ -1,2 +1,9 @@
-# Hospital-Management-System
-This Hospital Management System is a robust application aimed at simplifying hospital operations. By leveraging Java for its core logic, OOP principles for a modular design, JDBC for database connectivity, and MySQL for data storage, this system ensures data integrity, ease of use, and scalability.
+# Hospital Management System
+
+## Overview
+A comprehensive hospital management system developed using Java and MySQL. The system manages patients, doctors, and appointments.
+
+## Features
+- Add, view, update, and delete patients and doctors.
+- Book and manage appointments.
+- Search functionality for patients and doctors.
